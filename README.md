@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camelCaseStyle
 - 👀 I’m interested in NodeJS, Vanilla Javascript, Design patterns
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently working in quality engineering
 - 💞️ I’m looking to collaborate on anything that makes of JS 
 - 📫 How to reach me: anubhav.ashish9@gmail.com
 
